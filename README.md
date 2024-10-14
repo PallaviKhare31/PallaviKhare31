@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Pallavi Khare</h1>
-<h3 align="center">Passionate and skilled Java developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parulraut0110&label=Profile%20views&color=0e75b6&style=flat" alt="parulraut0110" /> </p>
 
