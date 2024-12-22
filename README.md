@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pallavi Khare</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parulraut0110&label=Profile%20views&color=0e75b6&style=flat" alt="parulraut0110" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parulraut0110&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare31" /> </p>
 
 - 🔭 I’m currently working on **[Powerful-Ad-Blocker-Extension](https://github.com/PallaviKhare31/Powerful-Ad-Blocker-Extension)**
 
