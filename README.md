@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikhare&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikhare31" /> </p>
 
-- 🔭 I’m currently working on **[Powerful-Ad-Blocker-Extension](https://github.com/PallaviKhare31/Powerful-Ad-Blocker-Extension)**
+- 🔭 I’m currently working on **[BrowserExtensionStore](https://github.com/PallaviKhare31/Powerful-Ad-Blocker-Extension)**
 
 - 📫 How to reach me **pallavikhare3153@gmail.com**
 
